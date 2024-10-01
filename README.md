@@ -18,5 +18,5 @@ TBD
 ## Полезное
 1. [awesome pentest](https://github.com/enaqx/awesome-pentest) [en]
 2. [Интерактивный тренажер по Unix терминалу](https://www.terminaltutor.com/) [en]
-3. [Бесплатный курс по терминалу](https://github.com/enaqx/awesome-pentest) [ru]
+3. [Бесплатный курс по терминалу](https://ru.hexlet.io/courses/cli-basics) [ru]
 4. [~~краткий~~ 15 часовой курс как быть умнее всех в группе](https://www.youtube.com/watch?v=3Kq1MIfTWCE)
