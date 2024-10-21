@@ -20,3 +20,7 @@ TBD
 2. [Интерактивный тренажер по Unix терминалу](https://www.terminaltutor.com/) [en]
 3. [Бесплатный курс по терминалу](https://ru.hexlet.io/courses/cli-basics) [ru]
 4. [~~краткий~~ 15 часовой курс как быть умнее всех в группе](https://www.youtube.com/watch?v=3Kq1MIfTWCE)
+
+## Payloads
+1. [PayloadsAllTheThings](https://swisskyrepo.github.io/PayloadsAllTheThings/) [en]
+1. [XSS-payload-list](https://github.com/payloadbox/xss-payload-list) [en]
