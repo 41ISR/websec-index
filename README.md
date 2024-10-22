@@ -2,9 +2,23 @@
 
 ## Содержание
 1. [Как выполнять задания](#как-выполнять-задания)
-2. [Лидерборд](./leaderboard.xlsx)
+1. [Roadmap](#roadmap)
+2. [Лидерборд](./leaderboard.ods)
 3. [Документация](#документация)
 4. [Полезное](#полезное)
+
+## Roadmap
+Все, что находится выше `Мы здесь` должно быть у вас для успешного получения зачета
+### 1. Тренажер по терминалу
+[Интерактивный тренажер по Unix терминалу](https://www.terminaltutor.com/) [en]
+или
+[Бесплатный курс по терминалу](https://ru.hexlet.io/courses/cli-basics) [ru]
+### 2. Passive Recon 
+[Презентация](https://ktkv-presentations.github.io/websec-2) 
+[Задание](https://github.com/41ISR/websec-lab1) 
+### 3. XSS
+[Презентация](https://ktkv-presentations.github.io/websec-3) 
+[Тренажер](https://xss-game.appspot.com/) _<-- Мы здесь_
 
 ## Как выполнять задания
 TBD
