@@ -30,6 +30,16 @@
 
 [Тренажер](https://xss-game.appspot.com/) _<-- Мы здесь_
 
+[Зарегистрироваться здесь](https://play.picoctf.org/)
+
+[Задание](https://github.com/41ISR/websec-lab3)
+
+### 4. CSRF
+
+[Презентация](https://ktkv-presentations.github.io/websec-4)
+
+[Задание](https://github.com/41ISR/websec-lab4)
+
 ## Как выполнять задания
 
 TBD
