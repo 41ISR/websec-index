@@ -28,7 +28,7 @@
 
 [Презентация](https://ktkv-presentations.github.io/websec-3)
 
-[Тренажер](https://xss-game.appspot.com/) _<-- Мы здесь_
+[Тренажер](https://xss-game.appspot.com/) 
 
 [Зарегистрироваться здесь](https://play.picoctf.org/)
 
@@ -38,7 +38,7 @@
 
 [Презентация](https://ktkv-presentations.github.io/websec-4)
 
-[Задание](https://github.com/41ISR/websec-lab4)
+[Задание](https://github.com/41ISR/websec-lab4) _<-- Мы здесь_
 
 ## Как выполнять задания
 
