@@ -38,13 +38,23 @@
 
 [Презентация](https://ktkv-presentations.github.io/websec-4)
 
-[Задание](https://github.com/41ISR/websec-lab2)
+[Задание](https://github.com/41ISR/websec-lab4)
 
 ### 5. CSRF
 
 [Презентация](https://ktkv-presentations.github.io/websec-4)
 
-[Задание](https://github.com/41ISR/websec-lab4) _<-- Мы здесь_
+[Задание](https://github.com/41ISR/websec-lab4)
+
+### 6. SQL Injection
+
+[Презентация](https://ktkv-presentations.github.io/websec-6)
+
+[Задание](https://github.com/41ISR/websec-lab6)
+
+### 7. Fix уязвимостей веб приложения
+
+[Задание](https://github.com/41ISR/websec-lab7) _<-- Мы здесь_
 
 ## Как выполнять задания
 
